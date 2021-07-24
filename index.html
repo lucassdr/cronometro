@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cronômetro</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Cronômetro</h1>
+    </header>
+    <section>
+        <div>
+            <p class="timer" id="timerHours_timeMinutes"></p>
+            <p class="timer" id="timerSeconds_timeMilliseconds"></p>
+        </div>
+    </section>
+    <section class="buttons">
+        <button id="btnReset" onclick="resetCounter()"></button>
+        <button id="btnPause" onclick="pause()"></button>
+        <button id="btnPlay" onclick="play()"></button>
+    </section>
+    <footer>
+        <a id="userName" onclick="openIg()"></a>
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>
