@@ -12,11 +12,12 @@ Implementei uma "responsividade" para que ficasse bom tanto no mobile quanto no 
 
 ### [Acesse o Cronômetro clicando aqui](https://lucassdr.github.io/cronometro/)
 
-Sinta-se a vontade para olhar esse código que provavelmente está uma bagunça, mas me ajudou a relaxar.
+Sinta-se a vontade para analisar esse código que provavelmente está uma bagunça, mas me ajudou a relaxar.
 
-Se você olhar esse projeto, dê um alô em meu Instagram 😁
+Se você chegou por aqui dê um alô em meu Instagram 😁
 [@lucassdr](www.instagram.com/lucassdr)
 
+<br>
 <br>
 <br>
 
@@ -29,7 +30,6 @@ Se você olhar esse projeto, dê um alô em meu Instagram 😁
 
 <br>
 <br>
-<br>
 
 -   Desktop
 
@@ -37,10 +37,12 @@ Se você olhar esse projeto, dê um alô em meu Instagram 😁
 
 <br>
 <br>
+<br>
 
 ### Créditos
 
 Não sou o primeiro e nem serei o último a fazer um cronômetro em JavaScript, mas caso deseje utilizar este projeto em algo, peço que mantenha as referências. 😁
 
+<br>
 <br>
 <br>
