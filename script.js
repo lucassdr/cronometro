@@ -60,12 +60,12 @@ function timer() {
         _milliseconds = 0
     }
 
-    if (_seconds > 60) {
+    if (_seconds > 59) {
         _minutes = ++_minutes;
         _seconds = 0
     }
 
-    if (_minutes > 60) {
+    if (_minutes > 59) {
         _hours = ++_hours;
         _minutes = 0
     }
