@@ -10,6 +10,8 @@ Sim, é um projeto simples, provavelmente de nível iniciante, mas foi legal pod
 
 Implementei uma "responsividade" para que ficasse bom tanto no mobile quanto no desktop. Você pode conferir olhando as imagens abaixo.
 
+## [Acesse o Cronômetro clicando aqui](https://lucassdr.github.io/cronometro/)
+
 Sinta-se a vontade para olhar esse código que provavelmente está uma bagunça, mas me ajudou a relaxar.
 
 Se você olhar esse projeto, dê um alô em meu Instagram 😁
